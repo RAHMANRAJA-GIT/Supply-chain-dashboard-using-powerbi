@@ -1,6 +1,6 @@
 # Supply Chain Dashboard using power bi
 ## Overview
-This project presents a comprehensive supply chain management solution developed using Power BI.Leveraging real-world data, the dashboard offers deep insights into various facets of supply chain operations, including inventory management, sales analysis, and logistics optimization.
+This project presents a comprehensive supply chain management solution developed using Power BI.Leveraging real-world data, the dashboard offers deep insights into various facts of supply chain operations, including inventory management, sales analysis, and logistics optimization.
 ## Features of the dataset
 * Product Type
 * SKU
@@ -43,13 +43,13 @@ This project presents a comprehensive supply chain management solution developed
 * **Report taking:** Interpret the results of analysis and derive actionable insights that can inform decision-making in the healthcare domain
 
 ## Report
-1.Skincare emerges as the most lucrative product category, contributing significantly to the total revenue of $5,77,605 with skincare products alone accounting for $2,41,628.
-2.The total number of products sold amounted to 46,099 units.
-3.Roadways emerged as the primary mode of transportation, followed by seaways.
-4.Among cities, Mumbai stands out as the top revenue-generating hub, closely trailed by Kolkata, while Delhi records the least revenue.
-5.However, Kolkata leads in terms of the highest volume of products sold, followed by Mumbai.
-6.Route A" emerges as the preferred transportation route, facilitating the transit of over 43% of the products.
-7.The overall satisfaction rate averages at 2.28, falling short of our target rate of 3.00.
-8.The average lead time for delivery stands at 14.77 days.
+* Skincare emerges as the most lucrative product category, contributing significantly to the total revenue of $5,77,605 with skincare products alone accounting for $2,41,628.
+* The total number of products sold amounted to 46,099 units.
+* Roadways emerged as the primary mode of transportation, followed by seaways.
+* Among cities, Mumbai stands out as the top revenue-generating hub, closely trailed by Kolkata, while Delhi records the least revenue.
+* However, Kolkata leads in terms of the highest volume of products sold, followed by Mumbai.
+* Route A" emerges as the preferred transportation route, facilitating the transit of over 43% of the products.
+* The overall satisfaction rate averages at 2.28, falling short of our target rate of 3.00.
+* The average lead time for delivery stands at 14.77 days.
 
 
